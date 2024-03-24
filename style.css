@@ -1,0 +1,33 @@
+body{
+    background-image: url("https://images.wallpaperscraft.com/image/single/street_night_wet_155637_3840x2160.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    backdrop-filter: blur(60px);
+    color: aliceblue;
+    margin-top: 10%;
+    margin-right: 660px;
+    margin-left: 42%;
+    padding-left: 10px;
+    border-radius: 10px;
+}
+.form{
+    font-size: 30px;
+    backdrop-filter: blur(60px);
+    margin-left: 42%;
+    margin-right: 648px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+}
+#name,#mobile,#password{
+    border: none;
+    border-radius: 3px;
+    background-color: aliceblue;
+}
+#submit{
+    border: none;
+    border-radius: 2px;
+}
